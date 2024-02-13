@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FIFA</string>
+    <string name="nombre">Mbappé</string>
+    <string name="puntiacion">91</string>
+    <string name="posicion">ST</string>
+    <string name="ritmo">99</string>
+    <string name="tiro">91</string>
+    <string name="pase">88</string>
+    <string name="regate">92</string>
+    <string name="defensa">90</string>
+    <string name="fisico">98</string>
+</resources>
